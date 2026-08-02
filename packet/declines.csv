@@ -1,0 +1,11 @@
+txn_id,amount,region,model_score,top1_feature,top1_contrib,top2_feature,top2_contrib,top3_feature,top3_contrib
+T-4201,142.1,North,0.79,transactions_last_hour,0.5,amount_vs_your_usual,0.29,distance_from_home_km,0.14
+T-4202,1450.0,West,0.9,new_device,0.52,late_night,0.36,amount_vs_your_usual,0.1
+T-4203,999.99,West,0.91,transactions_last_hour,0.57,late_night,0.31,merchant_risk_score,0.14
+T-4204,1450.0,North,0.93,amount_vs_your_usual,0.56,transactions_last_hour,0.27,distance_from_home_km,0.12
+T-4205,1450.0,North,0.76,new_device,0.54,amount_vs_your_usual,0.27,late_night,0.09
+T-4206,1450.0,South,0.87,merchant_risk_score,0.48,distance_from_home_km,0.27,transactions_last_hour,0.12
+T-4207,142.1,West,0.82,new_device,0.57,late_night,0.28,amount_vs_your_usual,0.09
+T-4208,260.0,East,0.88,distance_from_home_km,0.47,transactions_last_hour,0.35,late_night,0.13
+T-4209,999.99,West,0.79,merchant_risk_score,0.56,distance_from_home_km,0.29,late_night,0.13
+T-4210,1450.0,South,0.81,new_device,0.59,distance_from_home_km,0.37,late_night,0.17

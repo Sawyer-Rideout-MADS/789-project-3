@@ -1,0 +1,5 @@
+region,legit_transactions,wrongful_declines,wrongful_decline_rate
+North,4900,106,0.02163
+South,4900,106,0.02163
+East,4900,106,0.02163
+West,4900,231,0.04714
